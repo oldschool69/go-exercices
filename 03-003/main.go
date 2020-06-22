@@ -14,8 +14,6 @@ func main() {
 		if birth == current {
 			break
 		}
-		fmt.Println("make diff")
-		fmt.Println("another comment")
 		birth++
 	}
 }
