@@ -14,6 +14,7 @@ func main() {
 		if birth == current {
 			break
 		}
+		fmt.Println("make diff")
 		birth++
 	}
 }
